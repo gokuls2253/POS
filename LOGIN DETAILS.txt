@@ -1,0 +1,14 @@
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: admin1234
+
+
+---Cashier Login Details---
+
+Email : zang@gmail.com
+Password: zang1234
+
+Email : vicky@gmail.com
+Password: vicky1234
+
